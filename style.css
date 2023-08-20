@@ -1,5 +1,9 @@
 .mercury{
     width: 250px!important;
+    
+}
+body{
+    background-color: black!important;
 }
 nav{
     width: 50%!important;
