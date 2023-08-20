@@ -4,5 +4,5 @@ anime({
     loop: true,
     easing: 'easeInOutSine',
     direction: 'alternate',
-    duration: 5000
+    duration: 1000
   });
